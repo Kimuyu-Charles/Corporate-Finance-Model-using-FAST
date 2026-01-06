@@ -95,7 +95,7 @@ This makes the model easier to review, audit and reuse.
 - `Case-Study/`
   - `MAT_Start_Model_01a.xlsm` – FAST-style three-statement corporate finance model for the MAT Kenya tobacco manufacturer.
 - `Model/`
-   – `MAT_Case_Study.pdf` – original MAT Kenya case study pack with background on the company and region plus audited 2013–2014 
+   - `MAT_Case_Study.pdf` – original MAT Kenya case study pack with background on the company and region plus audited 2013–2014 
   financial statements and notes used as the basis for the model. :contentReference[oaicite:0]{index=0}
 
 - `README.md` – project overview and usage guide.
